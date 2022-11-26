@@ -1,0 +1,9 @@
+In Python, you can work with Variables and Data Types
+In Python, you can work with Lists
+In Python, you can work with IF statements
+In Python, you can work with Dictionaries
+In Python, you can work with User Input
+In Python, you can work with while Loops
+In Python, you can work with Functions
+In Python, you can work with Classes
+In Python, you can work with files
