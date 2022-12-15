@@ -1,4 +1,4 @@
-<h2 align="center">Python Crash Course_ A Hands-On, Project-Based Introduction to Programming</h2>
+<h3 align="center">Python Crash Course_ A Hands-On, Project-Based Introduction to Programming</h3>
 
 <p align="center">
   <a href="https://ehmatthes.github.io/pcc/" target="_blank">Book</a>
